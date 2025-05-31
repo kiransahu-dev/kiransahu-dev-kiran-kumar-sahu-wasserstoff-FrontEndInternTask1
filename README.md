@@ -34,3 +34,7 @@ Go to `http://localhost:3000/ticket` for showing ticket results.
 - `install all the dependency`
 - `type npm tun dev in your terminal from the file location where you cloned it `
 - `now go to the above URL to check the projects.`
+
+
+## Deployoment Link
+ link: https://fluffy-cranachan-bb69e1.netlify.app/
