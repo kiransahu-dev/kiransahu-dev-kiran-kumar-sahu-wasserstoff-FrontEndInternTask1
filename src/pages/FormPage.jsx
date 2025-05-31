@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import AvatarUpload from "../components/avatarupload/AvatarUpload";
-import InputField from "../components/InputField/InputField";
+import InputField from "../components/inputField/InputField";
 import Button from "../components/button/Button";
 import LogoHeader from "../components/logoheader/LogoHeader";
 import { useNavigate } from "react-router-dom";
