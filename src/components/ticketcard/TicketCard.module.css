@@ -1,0 +1,33 @@
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  border-radius: 16px;
+  border: 1px solid #ff6a5e;
+  max-width: 360px;
+  color: #fff;
+}
+.header {
+  font-weight: bold;
+  color: #ff6a5e;
+  margin-bottom: 0.25rem;
+}
+.meta {
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+.userInfo {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.name {
+  font-weight: bold;
+}
+.username {
+  color: #aaa;
+}
